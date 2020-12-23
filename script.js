@@ -2,7 +2,7 @@ function validateForm(){
     
     var uname=document.getElementById("uname");
     var pass=document.getElementById("pass");
-    if(uname.value=="Ravi" && pass.value=="jahnavi@123"){
+    if(uname.value=="Ravi" && pass.value=="ravi123$"){
         return true;
     
     }
